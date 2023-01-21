@@ -6,9 +6,7 @@ I'll put together a collection of SVG documents that I have created to make it e
 
 ## Documents
 
-- [Note to Fret Mapping for Ukulele (G C E A (High G))](./documents/ukulele-note2fret-high-g.svg)
-
-<img src="https://raw.github.com/jens-duttke/ukulele/main/documents/ukulele-note2fret-high-g.svg">
+[<img src="https://raw.github.com/jens-duttke/ukulele/main/documents/ukulele-note2fret-high-g.svg">](./documents/ukulele-note2fret-high-g.svg)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
