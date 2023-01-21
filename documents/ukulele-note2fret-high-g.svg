@@ -122,6 +122,7 @@
 
 		<!-- Strings -->
 		<g transform="translate(10, 550)" fill="#666">
+			<!-- Nuts -->
 			<g transform="translate(86, -30)">
 				<rect x="800" y="0" width="8" height="60"></rect>
 				<rect x="400" y="80" width="8" height="60"></rect>
