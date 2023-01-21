@@ -124,11 +124,8 @@
 		<g transform="translate(10, 550)" fill="#666">
 			<g transform="translate(86, -30)">
 				<rect x="800" y="0" width="8" height="60"></rect>
-
 				<rect x="400" y="80" width="8" height="60"></rect>
-
 				<rect x="80" y="160" width="8" height="60"></rect>
-
 				<rect x="640" y="240" width="8" height="60"></rect>
 			</g>
 
